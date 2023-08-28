@@ -1,2 +1,2 @@
-﻿# gestion-de-vehiculos
+Gestión de vehículos
 
